@@ -454,6 +454,26 @@ Beberapa aspek yang dapat diuji:
 
 Pengujian dilakukan untuk memastikan setiap fitur dapat berjalan sesuai dengan hak akses dan kebutuhan aplikasi.
 
+## Screenshot Website
+
+### Screenshot Dashboard Panel
+![Dashboard Panel](img/dashboardtgs2.jpeg)
+
+### Screenshot List Books
+![List Books](img/bookslisttgs2.jpeg)
+
+### Screenshot View Books
+![View Books](img/viewbooktgs2.jpeg)
+
+### Screenshot Authors
+![Authors](img/authorstgs2.jpeg)
+
+### Screenshot Form Create Book Authors
+![Form Authors](img/createbookauthorstgs2.jpeg)
+
+### Screenshot Form Create Book Categories
+![Form Categories](img/createbookcategoriestgs2.jpeg)
+
 ## 📄 Penutup
 
 Melalui Praktikum 7, aplikasi AuthBook dikembangkan dengan menambahkan beberapa fitur untuk mendukung pengelolaan perpustakaan. Penambahan deskripsi buku, kategori, sistem role pengguna, serta dashboard statistik membuat pengelolaan data menjadi lebih terstruktur.
