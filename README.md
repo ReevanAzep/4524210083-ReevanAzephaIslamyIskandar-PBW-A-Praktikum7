@@ -456,7 +456,7 @@ Pengujian dilakukan untuk memastikan setiap fitur dapat berjalan sesuai dengan h
 
 ## Screenshot Website
 
-### Screenshot Dashboard Panel
+### Screenshot Dashboard
 ![Dashboard Panel](img/dashboardtgs2.jpeg)
 
 ### Screenshot List Books
